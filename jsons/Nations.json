@@ -22,7 +22,7 @@
 	{
 		"name": "Mondstadt",
 		"leaderName": "Gunnhildr",
-		"preferredVictoryType": "Diplomacy",
+		"preferredVictoryType": "Diplomatic",
 
 		"startIntroPart1": "Sample text.",
 		"startIntroPart2": "Sample text.",
