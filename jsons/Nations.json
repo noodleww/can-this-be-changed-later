@@ -1,8 +1,28 @@
 [
-    {
+    	{
 		"name": "Adelle Corp",
 		"leaderName": "Kane",
 		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "Sample text.",
+		"startIntroPart2": "Sample text.",
+		"declaringWar": "You stand in the way of my people. Let us solve this like warriors!",
+		"attacked": "You dare have the courage to challenge nod, but no fear, for I will sweep you out of history.",
+		"defeated": "You have the guts to call my body a corpse but beware, I know what will happen to our future- our tiberium future.",
+		"introduction": "If I am cut, Do I not bleed?",
+		"tradeRequest": "I am not always this generous, but we hope you take this rare opportunity we give you.",
+		"outerColor": [0,0,0],
+		"innerColor": [142,22,0],
+		"uniqueName": "Word of Nod",
+		"uniques": ["[+30]% Strength <vs [City-States]>", "[+2] Movement <for [Armored] units>"],
+		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
+"Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
+	},
+	
+	{
+		"name": "Mondstadt",
+		"leaderName": "Gunnhildr",
+		"preferredVictoryType": "Diplomacy",
 
 		"startIntroPart1": "Sample text.",
 		"startIntroPart2": "Sample text.",
